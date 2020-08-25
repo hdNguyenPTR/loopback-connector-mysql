@@ -25,6 +25,7 @@
     "lodash": "^4.17.11",
     "loopback-connector": "^4.0.0",
     "mysql": "^2.11.1",
+    "mysql2": "^2.1.0",
     "strong-globalize": "^5.0.5"
   },
   "devDependencies": {
