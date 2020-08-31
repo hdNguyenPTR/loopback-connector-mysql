@@ -21,6 +21,7 @@
   ],
   "dependencies": {
     "async": "^2.6.1",
+    "aws-sdk": "^2.739.0",
     "debug": "^3.1.0",
     "lodash": "^4.17.11",
     "loopback-connector": "^4.0.0",
